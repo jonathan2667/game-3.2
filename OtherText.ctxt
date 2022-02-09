@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=OtherText
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ OtherText\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=text\ size\ color1\ color2\ color3
+comment1.target=OtherText(java.lang.String,\ int,\ greenfoot.Color,\ greenfoot.Color,\ greenfoot.Color)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
